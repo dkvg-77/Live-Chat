@@ -25,6 +25,12 @@ Features in here.
 
 Some screenshots:
 
-![ichat2](https://github.com/dkvg-77/Live-Chat/assets/122727663/270f91d9-3399-4d4a-8e40-4803e0368a46)
+
+![ichat2](https://github.com/dkvg-77/Live-Chat/assets/122727663/c3ad774c-3c8a-4d1a-890c-f769c6417ceb)
+
+
+![ichat1](https://github.com/dkvg-77/Live-Chat/assets/122727663/317a179c-de8f-4b3c-9e1c-1a8d3e9d7bae)
+
+
 
 
