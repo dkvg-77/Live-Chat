@@ -24,6 +24,6 @@ Features in here.
 --> Each time you recieve a message, there will be a sound. 
 
 Some screenshots:
+![ichat2](https://github.com/dkvg-77/Live-Chat/assets/122727663/270f91d9-3399-4d4a-8e40-4803e0368a46)
 
-![ichat1](https://github.com/dkvg-77/Live-Chat/assets/122727663/81d642f9-43df-4fab-bda0-86444c2971c0)
 
