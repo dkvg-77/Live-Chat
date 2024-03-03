@@ -3,7 +3,6 @@
 --> Enter the global room by default.  
 --> See who is all in your room.  
 --> Send messages and receive messages. You can also see the timestamp of the message received and sent.   
---> Haven't given importance to the front end.  
   
 ## Procedure to run this code:  
 --> Download using zip and extract the folder.  
